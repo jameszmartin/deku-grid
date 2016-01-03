@@ -22,5 +22,13 @@
     "lint": "eslint .",
     "start": "duo-tester browser -u duo-babel",
     "test": "duo-tester phantomjs -u duo-babel"
-  }
+  },
+  "keywords": [
+    "javascript",
+    "deku",
+    "dekujs",
+    "deku-component",
+    "deku grid",
+    "deku-grid"
+  ]
 }
